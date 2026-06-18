@@ -1,4 +1,5 @@
 data/
 results/*.csv
+!results/summary.csv
 __pycache__/
 *.pyc

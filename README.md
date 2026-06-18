@@ -37,6 +37,10 @@ with the stop at −1R, the chance of reaching +`T`R first is `1/(1+T)`. The
 strategy's observed hit-rates sit **on or below** that line — no skill. Details,
 tables, and the honest caveats are in **[METHODOLOGY.md](METHODOLOGY.md)**.
 
+**Skimming?** Every number — the full target sweep (hit-rate vs random-walk,
+gross/net expectancy) and both exit variants for all three markets — is in
+**[`results/summary.csv`](results/summary.csv)**.
+
 ## Reproduce it
 
 ```bash
